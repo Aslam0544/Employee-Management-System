@@ -1,11 +1,17 @@
-Project Experience:
-====================
-Project #1	:  Employee Management System
-Client		:  Codetru
-Environments	:  Java 8, Spring Boot, ReactJS, MySQL. 
+Project #1
+===========
+
+Title: Employee Management System
+==================================
+
+Client: Codetru
+=====================
+
+Environments used: Java 8, Spring Boot, ReactJS, MySQL.
+===========================================================
 
 Summary:
-========
+=========
 
 Employees are the backbone of any company therefore their contribution plays a major role in deciding the success of an organization.
 1. Employees Management Software makes it easy for the employer to keep track of all records. This software allows the administrator to edit employees, add new employees, transfer/promote/terminate employees. You can check to see if there are duplicate positions/employees in the database. A flexible and easy to use Employee Management software solution for small and medium sized companies provides modules for personnel information management thereby organization and companies are able to manage the crucial organization asset – people.
